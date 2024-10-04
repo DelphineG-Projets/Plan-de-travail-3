@@ -1,4 +1,4 @@
-# Mission ÉcoEcho : Équipe de nettoyage intergalactique
+# Mission ÉcoEcho : Nettoyage Intergalactique
 
 
 > En tant que membres d'une compagnie intergalactique de nettoyage vous avez pour mission de voyager à travers diverses planètes pour restaurer des écosystèmes pollués en résolvant des énigmes et en interagissant avec la faune locale.
@@ -12,6 +12,7 @@ Avec une ambiance immersive, des graphismes colorés et des mécaniques de jeu e
 
 ### Moodboard
 #### Visuel
+![Moodboard Visuel](https://i.ibb.co/MGjzmK5/ambiances.png)
 #### Sonore
 
 ### Schéma d'interactivité
