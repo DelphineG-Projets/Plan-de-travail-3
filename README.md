@@ -1,14 +1,13 @@
-# Mission ÉcoEcho : Nettoyage Intergalactique
+# TransMission
 
 
-> En tant que membres d'une compagnie intergalactique de nettoyage vous avez pour mission de voyager à travers diverses planètes pour restaurer des écosystèmes pollués en résolvant des énigmes et en interagissant avec la faune locale.
+> En tant qu'astronaute, vous devez réparer la tour de communication de votre vaisseau pour demander de l'aide après que celui-ci aie mystérieusement cesser de fonctionner. 
 
 ### Description 
-Les joueurs incarnent des agents d’une compagnie intergalactique de nettoyage, envoyés sur des planètes dévastées par la pollution et la dégradation écologique. Chaque mission les plonge dans des environnements variés.
+Plongez dans l'univers captivant NOM DU JEU, un jeu VR où vous incarnez un astronaute de la compagnie intergalactique StellarCorp. Envoyé sur une base spatiale pour étudier des astres mystérieux, votre mission prend une tournure inattendue lorsque votre vaisseau cesse mystérieusement de fonctionner.
 
-Les joueurs utiliseront des technologies avancées pour nettoyer les zones contaminées, résoudre des énigmes environnementales et interagir avec la faune locale. En collectant des ressources et en réparant des habitats, ils apprendront l'importance de la durabilité et de la protection des écosystèmes.
+Face à l'urgence, vous devez réparer la tour de communication afin de demander de l'aide. Explorez un environnement fascinant, rempli de technologies avancées et de paysages spatiaux éblouissants. Résolvez des énigmes complexes et interagissez avec des éléments de votre environnement pour restaurer le fonctionnement de votre vaisseau.
 
-Avec une ambiance immersive, des graphismes colorés et des mécaniques de jeu engageantes, cette expérience éducative sensibilisent les joueurs aux enjeux environnementaux tout en les invitant à participer activement à la protection de la nature, même au-delà de leur propre planète. 
 
 ### Moodboard
 #### Visuel
