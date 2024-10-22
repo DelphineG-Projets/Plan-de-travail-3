@@ -17,25 +17,30 @@ Face à l'urgence, vous devez réparer la tour de communication afin de demander
 ### Schéma d'interactivité
 ```mermaid
 graph TD
-    A[Écran d'Accueil] --> B[Sélection de Mission]
-    B --> C[Exploration de la Zone]
-    C --> D[Résolution d'Énigmes]
-    D --> E[Récupération des Éléments]
-    E --> F[Interaction avec la Faune]
+flowchart TD
+    A[Personne met le casque VR] --> B[Personne joue au jeu]
+    B --> C[Personne lit le journal de bord et les tâches à réaliser]
+    C -->|Interagir avec l'environnement| C
+    C --> D[Personne va dans la première pièce débarrée]
+    D -->|Interagir avec l'environnement| D
+    D --> E[Personne résout le puzzle]
+    E -->|Interagir avec l'environnement| E
+    E --> F[Personne sort de la pièce pour aller dans la prochaine pièce débarrée]
+    F -->|Interagir avec l'environnement| F
+    F --> G[Personne résout le puzzle]
+    G -->|Interagir avec l'environnement| G
+    G --> H[Personne sort de la pièce pour aller dans la prochaine pièce débarrée]
+    H -->|Interagir avec l'environnement| H
+    H --> I[Personne résout le puzzle]
+    I -->|Interagir avec l'environnement| I
+    I --> J[Personne sort de la pièce pour aller dans la prochaine pièce débarrée]
+    J -->|Interagir avec l'environnement| J
+    J --> K[Personne résout le puzzle]
+    K -->|Interagir avec l'environnement| K
+    K --> L[Personne va valider qu'il a fait toutes les tâches]
+    L -->|Interagir avec l'environnement| L
+    L --> M{Jeu termine ?}
+    M -->|Oui| N[Jeu terminé]
+    M -->|Non| B
 
-    D --> D1[Triage de Déchets]
-    D --> D2[Purification de l'Eau]
-    D --> D3[Puzzle de l'Équilibre Écologique]
-
-    E --> E1[Nettoyage de la Zone]
-    E --> E2[Planter des Arbres]
-
-    %% Logique de progression
-    D1 --> E1[Nettoyage de la Zone]
-    D2 --> E1
-    D3 --> E1
-
-    %% Fin du jeu
-    E1 --> |"Tous les puzzles résolus et environnement nettoyé"| H[Monde Propre et Beauté Restaurée]
-    H --> I[Choisir de Rester ou Quitter]
 ```
