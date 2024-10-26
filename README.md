@@ -13,6 +13,7 @@ Face à l'urgence, vous devez réparer la tour de communication afin de demander
 #### Visuel
 ![Moodboard Visuel]()
 #### Sonore
+Ambiances composées d'une basse synthétisée accompagnée de nappes de synthé et de leads de synthé. Il est possible d'ajouter des voix au mix. <br>
 [lonnex - losing (slowed and reverb)](https://youtu.be/KZrvnPOu5oU?si=-EyvkCBBUJ0rWzIe) <br>
 [lonnex - losing](https://youtu.be/BgBNLX_3afs?si=vbkmEJgLcy-1HkoC) <br>
 [liminalyx - cold loneliness](https://youtu.be/xqp4gNT410s?si=xMWUA3M1ONo_CCdn) <br>
