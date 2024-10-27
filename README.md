@@ -26,7 +26,7 @@ Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads
 [SymphoCat - Blue Whale](https://youtu.be/krSuui3nwqQ?si=G1x6yA_Nd2OJu_S9) <br>
 
 ### effet sonore
-[prendre bouteille](https://pixabay.com/fr/sound-effects/bottle-clink-101000/)
+[prendre bouteille](https://pixabay.com/fr/sound-effects/bottle-clink-101000/) <br>
 
 ### Schéma d'interactivité
 
