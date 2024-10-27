@@ -37,8 +37,5 @@ Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads
 [bruit deplacement](https://pixabay.com/fr/sound-effects/step-soundwav-14903/) <br>
 [boite](https://pixabay.com/fr/sound-effects/kick-cardboard-box-104453/) <br>
 
-
-
 ### Schéma d'interactivité
-
-![Schéma]()
+![Schéma](https://i.ibb.co/vQCsWBC/Schema-Prog-1.png)
