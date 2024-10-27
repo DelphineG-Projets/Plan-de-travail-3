@@ -28,14 +28,14 @@ Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads
 [.diedlonely - avenoir](https://youtu.be/xF6Z8PdFbZQ?si=Gps7YuQKD7YOBPhE) <br>
 
 ### Effets sonores
-Fioles
-[prendre bouteille](https://pixabay.com/fr/sound-effects/bottle-clink-101000/) <br>
-Prendre plantes
-[plante bruit prendre](https://pixabay.com/fr/sound-effects/bushmovement-6986/) <br>
-Bruit de déplacement sur métal
-[bruit deplacement](https://www.youtube.com/watch?v=DMAMYy-v-zA) <br>
-Lancer boîtes
-[boite](https://pixabay.com/fr/sound-effects/kick-cardboard-box-104453/) <br>
+
+[Prendre et lancer fioles](https://pixabay.com/fr/sound-effects/bottle-clink-101000/) <br>
+
+[Prendre plantes](https://pixabay.com/fr/sound-effects/bushmovement-6986/) <br>
+
+[Bruit de déplacement du personnage sur métal](https://www.youtube.com/watch?v=DMAMYy-v-zA) <br>
+
+[Lancer boîtes](https://pixabay.com/fr/sound-effects/kick-cardboard-box-104453/) <br>
 
 ### Schéma d'interactivité
 ![Schéma](https://i.ibb.co/vQCsWBC/Schema-Prog-1.png)
