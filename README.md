@@ -25,6 +25,9 @@ Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads
 [.diedlonely - avenoir](https://youtu.be/xF6Z8PdFbZQ?si=Gps7YuQKD7YOBPhE) <br>
 [SymphoCat - Blue Whale](https://youtu.be/krSuui3nwqQ?si=G1x6yA_Nd2OJu_S9) <br>
 
+### effet sonore
+[prendre bouteille](https://pixabay.com/fr/sound-effects/bottle-clink-101000/)
+
 ### Schéma d'interactivité
 
 ```mermaid
