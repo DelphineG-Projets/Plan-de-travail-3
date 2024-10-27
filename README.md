@@ -8,8 +8,6 @@ Plongez dans l'univers captivant Astronea, un jeu VR où vous incarnez un astron
 
 Face à l'urgence, vous devez réparer la tour de communication afin de demander de l'aide. Explorez un environnement fascinant, rempli de technologies avancées et de paysages spatiaux éblouissants. Résolvez des énigmes complexes et interagissez avec des éléments de votre environnement pour restaurer le fonctionnement de votre vaisseau.
 
-test
-
 
 ### Moodboard
 #### Visuel
