@@ -33,6 +33,11 @@ Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads
 
 ### effet sonore
 [prendre bouteille](https://pixabay.com/fr/sound-effects/bottle-clink-101000/) <br>
+[plante bruit prendre](https://pixabay.com/fr/sound-effects/bushmovement-6986/) <br>
+[bruit deplacement](https://pixabay.com/fr/sound-effects/step-soundwav-14903/) <br>
+[boite](https://pixabay.com/fr/sound-effects/kick-cardboard-box-104453/) <br>
+
+
 
 ### Schéma d'interactivité
 
