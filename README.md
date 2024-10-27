@@ -2,7 +2,7 @@
 
 > Éco6teme est un jeu VR où vous incarnez un astronaute chargé de résoudre des puzzles et d'accomplir des tâches hebdomadaires pour étudier des plantes extraterrestres dans une base spatiale.
 
-### Description
+## Description
 
 Éco6teme est un jeu immersif en réalité virtuelle qui place le joueur dans la peau d'un astronaute travaillant pour 6Teme Entreprise, une entreprise intergalactique spécialisée dans la recherche sur les plantes extraterrestres. Installé dans une base spatiale lointaine, le joueur doit accomplir des tâches hebdomadaires pour maintenir le progrès de ses recherches et poursuivre ses études botaniques.
 
@@ -14,27 +14,27 @@ L'ambiance du jeu est joyeuse et décontractée, avec un style visuel cartoonish
 
 
 
-### Moodboard
+## Moodboard
 
-#### Visuel
+### Visuel
 
 ![Moodboard Visuel](https://i.ibb.co/xHMcPyt/ambiencetp3.png)
 
-#### Sonore
-
+### Sonore
 Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads de synthé. <br>
-[lonnex - losing (slowed and reverb)](https://youtu.be/KZrvnPOu5oU?si=-EyvkCBBUJ0rWzIe) <br>
-[lonnex - losing](https://youtu.be/BgBNLX_3afs?si=vbkmEJgLcy-1HkoC) <br>
-[liminalyx - cold loneliness](https://youtu.be/xqp4gNT410s?si=xMWUA3M1ONo_CCdn) <br>
-[cholosus - Dream](https://youtu.be/se5uNCrig18?si=1A6mLVT9Ko01AWEO) <br>
-[SymphoCat - Long Whale Song](https://youtu.be/Glrwf8rKBXw?si=dz6L2nXC5B8sKCXO) <br>
-[.diedlonely - avenoir](https://youtu.be/xF6Z8PdFbZQ?si=Gps7YuQKD7YOBPhE) <br>
-[SymphoCat - Blue Whale](https://youtu.be/krSuui3nwqQ?si=G1x6yA_Nd2OJu_S9) <br>
 
-### effet sonore
+[lonnex - losing (slowed and reverb)](https://youtu.be/KZrvnPOu5oU?si=-EyvkCBBUJ0rWzIe) <br>
+[liminalyx - cold loneliness](https://youtu.be/xqp4gNT410s?si=xMWUA3M1ONo_CCdn) <br>
+[.diedlonely - avenoir](https://youtu.be/xF6Z8PdFbZQ?si=Gps7YuQKD7YOBPhE) <br>
+
+### Effets sonores
+Fioles
 [prendre bouteille](https://pixabay.com/fr/sound-effects/bottle-clink-101000/) <br>
+Prendre plantes
 [plante bruit prendre](https://pixabay.com/fr/sound-effects/bushmovement-6986/) <br>
-[bruit deplacement](https://pixabay.com/fr/sound-effects/step-soundwav-14903/) <br>
+Bruit de déplacement sur métal
+[bruit deplacement](https://www.youtube.com/watch?v=DMAMYy-v-zA) <br>
+Lancer boîtes
 [boite](https://pixabay.com/fr/sound-effects/kick-cardboard-box-104453/) <br>
 
 ### Schéma d'interactivité
