@@ -21,13 +21,13 @@ L'ambiance du jeu est joyeuse et décontractée, avec un style visuel cartoonish
 ![Moodboard Visuel](https://i.ibb.co/xHMcPyt/ambiencetp3.png)
 
 ### Sonore
-Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads de synthé. <br>
+#### Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads de synthé. <br>
 
 [lonnex - losing (slowed and reverb)](https://youtu.be/KZrvnPOu5oU?si=-EyvkCBBUJ0rWzIe) <br>
 [liminalyx - cold loneliness](https://youtu.be/xqp4gNT410s?si=xMWUA3M1ONo_CCdn) <br>
 [.diedlonely - avenoir](https://youtu.be/xF6Z8PdFbZQ?si=Gps7YuQKD7YOBPhE) <br>
 
-### Effets sonores
+#### Effets sonores
 
 [Prendre et lancer fioles](https://pixabay.com/fr/sound-effects/bottle-clink-101000/) <br>
 
