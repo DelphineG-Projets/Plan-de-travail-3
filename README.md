@@ -1,18 +1,21 @@
 # Astronea
 
+> En tant qu'astronaute, vous devez réparer la tour de communication de votre vaisseau pour demander de l'aide après que celui-ci aie mystérieusement cesser de fonctionner.
 
-> En tant qu'astronaute, vous devez réparer la tour de communication de votre vaisseau pour demander de l'aide après que celui-ci aie mystérieusement cesser de fonctionner. 
+### Description
 
-### Description 
 Plongez dans l'univers captivant Astronea, un jeu VR où vous incarnez un astronaute de la compagnie intergalactique StellarCorp. Envoyé sur une base spatiale pour étudier des astres mystérieux, votre mission prend une tournure inattendue lorsque votre vaisseau cesse mystérieusement de fonctionner.
 
 Face à l'urgence, vous devez réparer la tour de communication afin de demander de l'aide. Explorez un environnement fascinant, rempli de technologies avancées et de paysages spatiaux éblouissants. Résolvez des énigmes complexes et interagissez avec des éléments de votre environnement pour restaurer le fonctionnement de votre vaisseau.
 
-
 ### Moodboard
+
 #### Visuel
+
 ![Moodboard Visuel]()
+
 #### Sonore
+
 Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads de synthé. <br>
 [lonnex - losing (slowed and reverb)](https://youtu.be/KZrvnPOu5oU?si=-EyvkCBBUJ0rWzIe) <br>
 [lonnex - losing](https://youtu.be/BgBNLX_3afs?si=vbkmEJgLcy-1HkoC) <br>
@@ -23,6 +26,7 @@ Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads
 [SymphoCat - Blue Whale](https://youtu.be/krSuui3nwqQ?si=G1x6yA_Nd2OJu_S9) <br>
 
 ### Schéma d'interactivité
+
 ```mermaid
 flowchart TD
     A[Personne met le casque VR] --> B[Personne joue au jeu]
