@@ -38,7 +38,7 @@ Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads
 [Lancer boîtes](https://pixabay.com/fr/sound-effects/kick-cardboard-box-104453/) <br>
 
 ## Carte de l'environnement
-![Carte]()
+![Carte](https://i.ibb.co/JC9Yn4R/carte.png)
 
 ### Schéma d'interactivité
 ![Schéma](https://i.ibb.co/vQCsWBC/Schema-Prog-1.png)
