@@ -43,4 +43,4 @@ L'ambiance du jeu est joyeuse et décontractée, avec un style visuel cartoonish
 ![Carte](https://i.ibb.co/JC9Yn4R/carte.png)
 
 ### Schéma d'interactivité
-![Schéma](https://i.ibb.co/vQCsWBC/Schema-Prog-1.png)
+![Schéma](https://i.ibb.co/q9qLXL6/image.png)
