@@ -16,7 +16,7 @@ L'ambiance du jeu est joyeuse et décontractée, avec un style visuel cartoonish
 
 ### Visuel
 
-![Moodboard Visuel](https://i.ibb.co/xHMcPyt/ambiencetp3.png)
+![Moodboard Visuel](https://i.ibb.co/7QKbWb8/ambiencetp3.png)
 
 ### Sonore
 #### Ambiances composées d'une basse synthétisée, de nappes de synthé et de leads de synthé. <br>
